@@ -10,7 +10,7 @@ I have also been a crypto enthusiast since 2017, mostly exploring products, tool
 
 - **TNVisaPro** — A React + Supabase platform designed to automate TN Visa application packages using structured document generation and AI support tools.
 - **Remora (Crypto SaaS)** — A product that started as a Python script and grew into lightweight web and mobile apps.
-- **Math-Metrix (Flutter)** — A math training game exploring speed-calculation techniques.
+- **Tratchenberg (Flutter)** — A math training game exploring speed-calculation techniques.
 - **Shepherd AI** — An AI-powered chatbot project built to experiment with persona-based guidance and structured reasoning.
 - **Document & PDF Automation Tools** — Systems for photo cleanup, PDF assembly, scanning, merging, and workflow automation.
 - Numerous **Excel-based automation systems**, dashboards, macros, and reliability engineering tools created for consulting and operations work.

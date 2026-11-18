@@ -1,15 +1,13 @@
-I'm Adam, the founder of PhantomLayer
+# Hi, I'm Adam
 
-PhantomLayer is a control abstraction architecture that separates authority from static cryptographic artifacts. It changes what constitutes authority, where it lives, and how control is enforced.
+I began coding in 2019 working on a fintech called Remora in Flutter and Python with lots of help.
 
-We're building the first implementation in Rust for Bitcoin, designed to demonstrate materially reduced traditional and quantum attack surfaces while improving rotation, recovery, and continuity of control.
+As a barely functional Dev, Stack Overflow hated me and the vibe sucked, so I survived by lurking and ripping off Google (like any good dev, as im told?).
 
-The goal is practical: reduce digital asset theft today, make preparing for post-quantum security easier, and provide a more durable way to prove authority and maintain control of digital assets.
+I was early to AI, and since then I've built projects in productivity, gaming, education, and more.
 
-PhantomLayer is cryptographically agile, industry and chain agnostic. Our near-term roadmap expands the architecture to EVM and post-quantum constructions, but the underlying control model can apply to any digital system that depends on persistent authority artifacts.
+I'm a business consultant by trade and a first-principles thinker by habit. 
 
-Architecture patent pending.
+**Recently** I shut down PhantomLayer, a cryptography-focused digital asset security infrastructure project when i thought i revolutionized ECC (i would have succeeded too, if it wasnt for you pesky BTC Maximalist!)
 
-We're actively building, testing, and looking for technical collaborators, reviewers, infrastructure partners, and early adopters.
-
-adam@phantomlayer.org
+Now I'm picking up where I left off before PhantomLayer, building a multi-model, AI-native SaaS for a niche corner of legal tech.
